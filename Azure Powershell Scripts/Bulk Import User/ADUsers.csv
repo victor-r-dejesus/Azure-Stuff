@@ -1,0 +1,13 @@
+DisplayName,MailNickName,UserPrincipalName,PasswordProfile, City, Country, Department, JobTitle, Mobile
+DemoUser1,DemoUser1,testuser1@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser2,DemoUser2,testuser2@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser3,DemoUser3,testuser3@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser4,DemoUser4,testuser4@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser5,DemoUser5,testuser5@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser6,DemoUser6,testuser6@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser7,DemoUser7,testuser7@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser8,DemoUser8,testuser8@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser9,DemoUser9,testuser9@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+DemoUser10,DemoUser10,testuser10@vmaddemo.onmicrosoft.com,Summer@2020, Sydney, Australia, IT, Software, 9999999989
+
+

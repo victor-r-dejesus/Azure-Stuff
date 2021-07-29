@@ -1,0 +1,3 @@
+﻿version:v1.0,,,,,,,,,,,,,,,,
+Name (example: Chris Green) [displayName] Required,User name (example: chris@contoso.com) [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+JackSmith,varun.maggo@gmail.com,Qwer1234,Yes,Jack,Smith,Contractor,IT,Australia,Some text here,NSW,,,Sydney,12345,999999999,999999999
