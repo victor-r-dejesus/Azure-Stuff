@@ -53,7 +53,10 @@ ForEach ($Result in $Results) {
     Else {
 
     Write-Host "WinRM is not enabled on this PC, or is not accessible on the network. Please verify the PC is on the network, and WinRM is enabled." -ForegroundColor Red
-
+    
+    #Writes the computer name of the PC without a backed up BitLocker key into a file in My Documents
+    $Path = [environment]::getfolderpath("mydocuments")
+    $Result.ComputerName | Out-File -FilePath "$Path\BitLocker_Missing.txt" -Append -Force
         }
     }
 
