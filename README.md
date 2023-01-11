@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victor-r-dejesus
 - 👀 I’m interested in learning with Azure containers.
-- 🌱 I’m currently learning and going for the Azure Architect cert.
+- 🌱 I’m a certified Azure Adminstrator and Architect.
 
 <!---
 victor-r-dejesus/victor-r-dejesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
